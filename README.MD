@@ -21,5 +21,5 @@ Servidor | Cliente | Base de Dados
 Python | React.JS | MySQL
 Ruby | Angular.JS | Firebase
 Node.JS | Adicionem | MongoDB
-Adicionem | Adicionem | MariaDB
+PHP | Adicionem | MariaDB
 > **Adicionem Mais**
