@@ -8,8 +8,10 @@
 * Pedro Rodrigues
 * Pedro Silva
 * Daniel Cabaceira
-* Joao Nunes
+* João Nunes
 * José Machado
+* João Alves
+* Rafael Lopes
 * **ADICIONEM O VOSSO NOME**
 
 
