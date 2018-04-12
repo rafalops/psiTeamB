@@ -5,4 +5,5 @@
 * Daniel Cabaceira
 * Rafael Gonçalves
 * Simão Oliveira
+* Pedro Rodrigues
 * **ADICIONEM O VOSSO NOME**
