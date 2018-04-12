@@ -12,7 +12,6 @@
 * José Machado
 * João Alves
 * Rafael Lopes
-* **ADICIONEM O VOSSO NOME**
 
 
 ## Tecnologias a usar
