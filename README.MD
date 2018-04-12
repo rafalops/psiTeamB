@@ -7,4 +7,5 @@
 * Simão Oliveira
 * André Almeida
 * Pedro Rodrigues
+* Pedro Silva
 * **ADICIONEM O VOSSO NOME**
