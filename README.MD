@@ -9,6 +9,7 @@
 * Pedro Silva
 * Daniel Cabaceira
 * Joao Nunes
+* José Machado
 * **ADICIONEM O VOSSO NOME**
 
 
