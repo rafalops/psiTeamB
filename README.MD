@@ -1,6 +1,6 @@
-#Projeto PSI
+# Projeto PSI
 
-##Membros
+## Membros
 * Carlos Silva
 * Daniel Cabaceira
 * Rafael Gonçalves
