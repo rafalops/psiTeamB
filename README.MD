@@ -19,5 +19,3 @@
 Servidor | Cliente | Base de Dados
 --- | --- | ---
 Python | Angular.JS | MongoDB
-Adicionem | Adicionem | Adicionem 
-> **Adicionem Mais**
