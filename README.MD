@@ -18,7 +18,6 @@
 
 Servidor | Cliente | Base de Dados
 --- | --- | ---
-Python | React.JS | *
-* | Angular.JS | MongoDB
+Python | Angular.JS | MongoDB
 Adicionem | Adicionem | Adicionem 
 > **Adicionem Mais**
