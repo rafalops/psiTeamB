@@ -18,9 +18,7 @@
 
 Servidor | Cliente | Base de Dados
 --- | --- | ---
-Python | React.JS | MySQL
-Ruby | Angular.JS | Firebase
-Node.JS | Electron | MongoDB
-PHP |  JavaScript | MariaDB
+Python | React.JS | *
+* | Angular.JS | MongoDB
 Adicionem | Adicionem | Adicionem 
 > **Adicionem Mais**
