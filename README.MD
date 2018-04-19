@@ -18,4 +18,4 @@
 
 Servidor | Cliente | Base de Dados
 --- | --- | ---
-Python | Angular.JS | MongoDB
+Python (2 ou 3?) | Angular.JS | MongoDB
