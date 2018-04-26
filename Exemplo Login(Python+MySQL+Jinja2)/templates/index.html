@@ -1,0 +1,28 @@
+{% extends "base.html" %} {% block body %}
+<h1>Home</h1>
+{% if 'username' in session %}
+<p>Welcome back
+    <t style="color:lime;">{{session['username']}}!</t>
+    <br /> Role: {{session['role']}}</p>
+<br />
+<form action="{{url_for('index')}}" method="post">
+    <input type="submit" name="logout" style="cursor: pointer;" class="btn btn-outline-danger" value="Logout" />
+</form>
+{% else %}
+<p>Please enter your login credentials:</p>
+<form action="{{url_for('index')}}" method="post">
+    <p>Username:
+        <br />
+        <input type="text" name="username" />
+    </p>
+    <p>Password:
+        <br />
+        <input type="password" name="passwd" />
+    </p>
+    <p>
+        <input type="submit" class="btn btn-outline-primary" value="Login" />
+    </p>
+</form>
+{% endif %} {% with messages = get_flashed_messages(with_categories=true) %} {% for category, message in messages %}
+<div
+    class="{{ category}}"> {{message}} </div> {% endfor %} {% endwith %} {% endblock %}

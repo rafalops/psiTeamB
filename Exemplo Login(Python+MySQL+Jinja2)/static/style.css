@@ -1,0 +1,54 @@
+body {
+    font-family: 'Georgia', serif;
+    color: #3E4349;
+}
+
+#nav {
+    position: absolute;
+    top: 20px;
+    bottom: 10px;
+    left: 5px;
+    width: 12em;
+    height: 95%;
+    border-right: 1px solid rgba(0, 0, 0, 0.35);
+}
+
+#content {
+    margin-left: 15em;
+}
+
+#link123{
+    width: 130px;
+    text-align: center;
+}
+
+#dv1{
+    width: auto;
+    position: relative;
+    float: left;
+}
+
+#dv2{
+    width: auto;
+    position: relative;
+    float: left;
+    left: 50px;
+}
+
+#video1{
+    width: 1300px;
+}
+
+.error {
+    color: red;
+    font-weight: 900;
+}
+
+.warning {
+    color: yellow;
+    font-weight: 500;
+}
+
+body {
+    
+}
