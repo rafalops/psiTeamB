@@ -16,6 +16,14 @@
 
 ## Tecnologias a usar
 
+Carlos
+
+Servidor | Cliente | Base de Dados
+--- | --- | ---
+Python (2 ou 3?) | Jinja2 | MySQL
+
+Daniel
+
 Servidor | Cliente | Base de Dados
 --- | --- | ---
 Python (2 ou 3?) | Angular.JS | MongoDB
