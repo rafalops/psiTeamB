@@ -1,0 +1,15 @@
+{% extends "base.html" %} {% block body %}
+<h1>Criar nova conta</h1>
+<p>Please enter your account details:</p>
+<form action="{{url_for('register')}}" enctype="multipart/form-data" method="post">       
+    <p>Username:<br />
+        <input type="text" name="username" /></p>
+    <div id="dv1"><p>Password:<br />
+        <input type="password" name="passwd" /></p></div>
+    <div id="dv2"><p>Confirm Password:<br />
+        <input type="password" name="passwd2" /></p></div> <br /><br /><br />
+    <p><input type="submit" class="btn btn-outline-warning" value="Registar" /></p>
+</form>
+{% with messages = get_flashed_messages(with_categories=true) %} {% for category, message in messages %}<pre class="{{ category}}"> {{message}} </pre> {% endfor %} {% endwith%}
+{% endblock %}{% block nav %}
+<li><a id="link123" class="btn btn-outline-primary btn-sm" href="{{url_for('index')}}">Home</a></li><br/>{% endblock %}

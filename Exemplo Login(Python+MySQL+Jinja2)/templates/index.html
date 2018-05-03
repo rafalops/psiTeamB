@@ -7,6 +7,9 @@
 <br />
 <form action="{{url_for('index')}}" method="post">
     <input type="submit" name="logout" style="cursor: pointer;" class="btn btn-outline-danger" value="Logout" />
+    {% if session['role'] == "Administrator"%}
+        <input type="submit" name="create" style="cursor: pointer;" class="btn btn-outline-dark" value="Criar novo utilizador" />
+    {% endif %}
 </form>
 {% else %}
 <p>Please enter your login credentials:</p>
