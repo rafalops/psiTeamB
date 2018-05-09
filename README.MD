@@ -1,4 +1,11 @@
 # Projeto PSI
+## SPRINT 1
+
+* Definição de roles e permissões
+
+Começar a ver exemplos de permission, um *middleware* para Express.
+https://www.npmjs.com/package/permission
+
 
 ## Membros
 * Carlos Silva
@@ -16,14 +23,4 @@
 
 ## Tecnologias a usar
 
-Carlos
-
-Servidor | Cliente | Base de Dados
---- | --- | ---
-Python 3 | Jinja2 | MySQL
-
-Daniel
-
-Servidor | Cliente | Base de Dados
---- | --- | ---
-Python 3 | Angular.JS | MongoDB
+Foi decidido Node.js-Express+MySQL+Vue.js
